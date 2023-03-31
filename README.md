@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=45&center=true&vCenter=true&width=1000&lines=Murylo+Januário+Desenvolvedor+Web+!)](https://git.io/typing-svg)
 ## Oie eu sou o Murylo Januário, desenvolvedor web!
 Cursando Análise e Desenvolvimento de Sistemas(UNICID).<br>
 
